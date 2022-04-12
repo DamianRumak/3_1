@@ -6,3 +6,6 @@ Janusz bb 40
 Krzysztof aa 20
 Janusz bb 40
 Dawid Oczos 24
+Krzysztof aa data 20
+Janusz bb data 40
+da ru 11.12.22 12
